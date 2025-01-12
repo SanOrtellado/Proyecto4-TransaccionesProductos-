@@ -48,5 +48,5 @@ Este panel interactivo proporciona una visión completa del catálogo de product
    - Si es viable, desarrollar estrategias para equilibrar los ingresos en productos con grosor menor.
 
 ## Conclusión
-Este panel es una herramienta poderosa para los clientes de FOMICUSTIKS, permitiéndoles explorar y seleccionar productos acústicos de manera eficiente. Proporciona una experiencia de usuario mejorada y facilita decisiones de compra informadas basadas en criterios personalizados.
+Este panel es una herramienta poderosa para los usuarios de la empresa, permitiéndoles explorar y seleccionar productos acústicos de manera eficiente. Proporciona una experiencia de usuario mejorada y facilita decisiones de compra informadas basadas en criterios personalizados.
 
